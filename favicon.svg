@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Tunja sobre Ruedas">
+  <defs>
+    <linearGradient id="grad" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#C7EE58" />
+      <stop offset="100%" stop-color="#98CB2A" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="#0F3E33" />
+  <circle cx="42" cy="90" r="16" fill="url(#grad)" />
+  <circle cx="92" cy="90" r="16" fill="url(#grad)" />
+  <path d="M40 38h18l12 22H48l-8 12H24l8-18h8L40 38zm26 0h22l8 18H63l-19-18h22z" fill="#F9F4E7" />
+  <circle cx="40" cy="90" r="7" fill="#F9F4E7" />
+  <circle cx="92" cy="90" r="7" fill="#F9F4E7" />
+</svg>
